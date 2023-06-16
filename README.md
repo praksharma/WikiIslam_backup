@@ -1,6 +1,8 @@
-## WikiIslam mirror
+## WikiIslam backup
 
-Link to the mirror: http://wikiislam.github.io/wiki/Main_Page.html
+Link to the website: https://praksharma.github.io/WikiIslam_backup/
+
+Link to the old mirror: http://wikiislam.github.io/wiki/Main_Page.html
 
 On Dec 1, 2015 WikiIslam.net was taken offline for "security reasons".
 
