@@ -2,6 +2,8 @@
 
 Link to the website: https://praksharma.github.io/WikiIslam_backup/
 
+Link to the new website: https://wikiislam.net/wiki/Main_Page
+
 This repo is a backup of the old WikiIslam. WikiIslam's goal is to become the most comprehensive and accurate source of information on Islam. This information is based primarily on its own sources, the Qur'an, hadith and Islamic scholars. It takes a rational approach in its handling of Islam and is notable for dealing extensively with false propaganda and Islamic pseudoscience.
 
 [Here](https://praksharma.github.io/WikiIslam_backup/wiki/WikiIslam.html#About), you can read more about the website. 
